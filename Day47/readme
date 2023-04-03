@@ -1,0 +1,7 @@
+Web scaping with BeautifulSoup 
+sending Email and Telegram Messegaes
+
+checks a product on Amazon, gets its name and price. 
+then if the price is lower than our buy_price, sends notification via Email and Telegram!
+
+day 47 challenge.
