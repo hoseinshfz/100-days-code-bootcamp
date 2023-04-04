@@ -1,0 +1,6 @@
+scrape the web with BeautifulSoup to get the rental properties and their price, locations, and links.
+Then fill the form with extracted information with Selenium
+
+there is a WebScraper class that has two childs; SeleniumParser, and Soup
+
+day 53 challange.
